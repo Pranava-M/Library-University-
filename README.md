@@ -1,9 +1,6 @@
 # Library Management System
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Build](https://img.shields.io/badge/Build-Maven%2FGradle-yellow)
+
 
 A complete Library Management System with book inventory, user management, and loan tracking.
 
