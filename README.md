@@ -464,13 +464,7 @@ Contributions are welcome! Please follow these steps:
    ```
 4. **Open a Pull Request** with a clear description of the change
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for code style guidelines and the branching strategy.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -478,6 +472,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 Made with ❤️ | Library Management System
 
-[Report a Bug](https://github.com/your-username/library-management-system/issues) · [Request a Feature](https://github.com/your-username/library-management-system/issues)
+
 
 </div>
