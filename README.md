@@ -1,7 +1,6 @@
 # 📚 Library Management System
 
 <div align="center">
-
 ![Java](https://img.shields.io/badge/Java-17%2B-blue?style=for-the-badge&logo=openjdk)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0%2B-orange?style=for-the-badge&logo=mysql)
 ![Maven](https://img.shields.io/badge/Build-Maven-yellow?style=for-the-badge&logo=apache-maven)
