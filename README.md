@@ -14,7 +14,6 @@
 [Features](#-features) · [Quick Start](#-quick-start) · [Architecture](#-architecture) · [Database](#-database-setup) · [API Docs](#-api-documentation) · [Contributing](#-contributing)
 
 </div>
-
 ---
 
 ## ✨ Features
